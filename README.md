@@ -1,0 +1,2 @@
+# Other
+ short exercises
